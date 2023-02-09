@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "celsius": "^1.0.2",
+    "celsius-fahrenheit-converter": "^1.0.0"
+  }
+}
